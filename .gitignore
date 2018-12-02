@@ -5,3 +5,5 @@ public/dist/
 package-lock.json
 yarn.lock
 yarn-error.log
+src/firebase/firebase-example.js
+src/firebase/firebase_bcp.js
