@@ -1,4 +1,4 @@
-##Your Expenses
+## Your Expenses
 
 This project lets you keep, add up and control your expenses.
 
